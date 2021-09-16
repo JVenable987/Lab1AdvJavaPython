@@ -1,0 +1,40 @@
+"C:\Program Files\Java\jdk1.8.0_301\bin\java.exe" -javaagent:C:\Users\joshu\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\lib\idea_rt.jar=52988:C:\Users\joshu\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\212.5080.55\bin -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_301\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\rt.jar;C:\Users\joshu\Downloads\Lab1-Completed\Lab1Complete\out\production\Lab1" edu.ucdenver.libraryapp.MyLibraryApp
+>>>>>>>>>>>>>>>>>>
+This is the My Auraria Library library.
+== Author List =
+== Book List =
+--o--
+
+<<<<<<<<<<<<<<<<<<
+ERROR:java.lang.IllegalArgumentException: The author already exists.
+>>>>>>>>>>>>>>>>>>
+This is the My Auraria Library library.
+== Author List =
+John Grisham (Author)
+David Baldacci (Author)
+== Book List =
+--o--
+
+<<<<<<<<<<<<<<<<<<
+ERROR:java.lang.IllegalArgumentException: The author name does not exist
+>>>>>>>>>>>>>>>>>>
+This is the My Auraria Library library.
+== Author List =
+John Grisham (Author)
+David Baldacci (Author)
+== Book List =
+Book: The Guardians, with 120 pages published on 2019-10-15 written by John Grisham (Author).
+---a.k.a:The Guardians: A Novel
+---a.k.a:Guardians
+---a.k.a:Guardianes
+
+Book: Camino Winds, with 300 pages published on 2020-04-28 written by John Grisham (Author).
+---a.k.a:Camino Winds
+---a.k.a:Winds
+---a.k.a:The last one
+
+--o--
+
+<<<<<<<<<<<<<<<<<<
+
+Process finished with exit code 0
